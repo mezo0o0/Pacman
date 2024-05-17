@@ -1,4 +1,4 @@
-package com.example.pac_man;
+package org.example.gamedemo;
 
 import javafx.animation.*;
 import javafx.scene.Scene;
